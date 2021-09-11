@@ -1,0 +1,7 @@
+name: PoggLagg
+version: ${project.version}
+main: blackbeltpanda.pogglagg.PoggLagg
+api-version: 1.17
+authors: [ BlackBeltPanda ]
+description: Gets rid of lagg(tm) at any cost.
+website: https://www.youtube.com/TheBlackBeltPanda
